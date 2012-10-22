@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'RAReachability' target in the 'RAReachability' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif
